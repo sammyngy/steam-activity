@@ -2,13 +2,7 @@
 	"redirects": [
 		{
 			"source": "/",
-			"destination": "https://github.com/akellbl4/spotify-badge"
-		}
-	],
-	"rewrites": [
-		{
-			"source": "/api/now-playing",
-			"destination": "/now-playing"
+			"destination": "https://github.com/sammyngy/steam-activity"
 		}
 	]
 }
