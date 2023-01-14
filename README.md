@@ -1,5 +1,4 @@
 # Steam Activity
-Some endpoints from the steam api
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
 
