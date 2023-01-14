@@ -15,6 +15,7 @@
 - Go to [https://www.steamidfinder.com](https://www.steamidfinder.com) and search with your steam username to get your steam id (steamID64)
 
 Exemple:
+
 ![image](https://user-images.githubusercontent.com/32553897/212471715-ec46d71c-5826-4bd1-be43-0c1672b77061.png)
 
 
