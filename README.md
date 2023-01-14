@@ -12,7 +12,7 @@
 
 - Go to [https://steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) and create/login to your account and copy the key
 
-- Got to [https://www.steamidfinder.com](https://www.steamidfinder.com) and search with your steam username to get your steam id
+- Go to [https://www.steamidfinder.com](https://www.steamidfinder.com) and search with your steam username to get your steam id
 
 ###  Deploy an application to Vercel
 
