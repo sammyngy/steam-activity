@@ -3,9 +3,9 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
 
 ### Features 
-**All your recents played games** All the informations about a steam user `GET /api/player-summaries`
+**All your recents played games: ** All the informations about a steam user `GET /api/player-summaries`
 
-**Your recent played Games** A list of your recent played games with stats `GET /api/recent-played-games`
+**Your recent played Games: ** A list of your recent played games with stats `GET /api/recent-played-games`
 	
 ## How to use
 #### Create an account on Steam Dev website to get an api key
