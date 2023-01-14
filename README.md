@@ -1,7 +1,7 @@
 # Steam Activity
 Some endpoints from the steam api
 
-Features 
+## Features 
 All your recents played games
 
 Steps to use the project :
