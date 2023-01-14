@@ -2,7 +2,10 @@
 Some endpoints from the steam api
 
 ## Features 
-All your recents played games
+<b>All your recents played games</b> All the informations about a steam user
+<b>Your recent played Games</> A list of your recent played games with stats
+	
+## How to use
 
 Steps to use the project :
 
