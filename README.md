@@ -19,7 +19,7 @@ Exemple:
 ![image](https://user-images.githubusercontent.com/32553897/212471715-ec46d71c-5826-4bd1-be43-0c1672b77061.png)
 
 
-###  Deploy an application to Vercel
+###  Deploy the application with Vercel
 
 Open this link [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
 
