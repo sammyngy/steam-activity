@@ -9,9 +9,9 @@ Some endpoints from the steam api
 ## How to use
 #### Create an account on Steam Dev website to get an api key
 
-- Go to <a href="https://steamcommunity.com/dev/apikey" target="_blank">https://steamcommunity.com/dev/apikey</a> and create/login to your account and copy the key
+- Go to [https://steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) and create/login to your account and copy the key
 
-- Got to <a href="https://www.steamidfinder.com/" target="_blank">https://www.steamidfinder.com/</a> and search with your steam username to get your steam id
+- Got to [https://www.steamidfinder.com](https://www.steamidfinder.com) and search with your steam username to get your steam id
 
 ####  Deploy an application to Vercel
 
