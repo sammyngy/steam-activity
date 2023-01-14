@@ -2,7 +2,8 @@
 Some endpoints from the steam api
 
 ### Features 
-**All your recents played games** All the informations about a steam user	
+**All your recents played games** All the informations about a steam user
+
 **Your recent played Games** A list of your recent played games with stats
 	
 ## How to use
