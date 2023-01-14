@@ -2,14 +2,10 @@
 Some endpoints from the steam api
 
 ### Features 
-<b>All your recents played games</b> All the informations about a steam user
-
-<b>Your recent played Games</b> A list of your recent played games with stats
+**All your recents played games** All the informations about a steam user
+**Your recent played Games** A list of your recent played games with stats
 	
 ## How to use
-
-Steps to use the project :
-
 #### Create an account on Steam Dev website to get an api key
 
 - Go to <a href="https://steamcommunity.com/dev/apikey" target="_blank">https://steamcommunity.com/dev/apikey</a> and create/login to your account and copy the key
