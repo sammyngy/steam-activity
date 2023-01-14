@@ -28,6 +28,12 @@ Exemple : `https://example.vercel.app/api/player-summaries`
 
 Then enjoy the endpoint's
 
+### No Vercel 
+## If you want to run the project on local :
+- Copy `.env.example` to `.env` and add values to env variables
+- Run `npm install` for dependencies installation
+- Run `npm start`
+- 
 ## License
 
 MIT
