@@ -1,7 +1,7 @@
 # Steam Activity
 Some endpoints from the steam api
 
-[![Deploy with Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
 
 ### Features 
 **All your recents played games** All the informations about a steam user `GET /api/player-summaries`
@@ -17,7 +17,7 @@ Some endpoints from the steam api
 
 ####  Deploy an application to Vercel
 
-Open this link [![Deploy with Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
+Open this link [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
 Click continue and deploy the app
 
 Click **Continue To Dashboard** 
