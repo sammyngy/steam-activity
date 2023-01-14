@@ -18,11 +18,16 @@ Some endpoints from the steam api
 ####  Deploy an application to Vercel
 
 Open this link [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sammyngy/steam-activity&env=STEAM_API_KEY,STEAM_ID&project-name=steam-activity)
-Click continue and deploy the app
 
+- Link and create a new git rep
+- Paste the environnements variables (STEAM_ID and STEAM_API_KEY)
+- Click on deploy
 - Click **Continue To Dashboard** 
 - Copy the **DOMAINS** url
-- Then enjoy the endpoint's
+
+Exemple : `https://example.vercel.app/api/player-summaries`
+
+Then enjoy the endpoint's
 
 ## License
 
